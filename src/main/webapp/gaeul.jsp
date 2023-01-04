@@ -7,5 +7,6 @@
 	</head>
 	<body>
 		<div>gaeul</div>
+		<div>gaeul 2</div>
 	</body>
 </html>
